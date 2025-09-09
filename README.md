@@ -1,10 +1,14 @@
 # hsk-sporcle-quiz-data-importer-
 A .csv data generator to import HSK Wordlists for sporcle quiz creator
 
-Wordlists were copied from https://mandarinbean.com/new-hsk-3-word-list to a suitable format for sporcle quiz data
+I am learning chinese and no one created hsk3, hsk4 hsk5 quizzes on sporcle for the new HSK requirements. So I had to create this to quickly create all the quizzes
+
+Wordlists were copied from https://mandarinbean.com/new-hsk-3-word-list
 
 This only works for wordlists in the format:
-"1	爱心	àixīn	love"
+"1 \t 爱心 \t àixīn \t love"
+
+If it ever becomes necessary, I will do a more general version to support multiple types.
 
 Arguments:
 --filename hsk3wordlist.txt --word_group_len 155
