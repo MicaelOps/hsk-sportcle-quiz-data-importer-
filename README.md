@@ -10,6 +10,7 @@ Arguments:
 --filename hsk3wordlist.txt --word_group_len 155
 
 Excel:
+
 <img width="606" height="326" alt="image" src="https://github.com/user-attachments/assets/9d0fda5c-7329-4583-b858-a4845e8cd8ed" />
 
 Sporcle website:
